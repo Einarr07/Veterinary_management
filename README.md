@@ -28,3 +28,10 @@ Not Found
 Dashboard
 ------
 ![Image text](https://raw.githubusercontent.com/Byrontosh/Plantilla-App-Demo/main/src/assets/fondos/captura-7.png)
+
+Ahora se procede a crear una serie de archivos y directorios para el web server.
+  mkdir src
+  cd src
+
+  Para ambientes Windows 
+  "config","controllers",”helpers”,”models”,”public”,”routers”,”views” | %{New-Item -Name “$_” -ItemType “Directory”}
