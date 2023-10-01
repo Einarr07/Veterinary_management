@@ -29,6 +29,8 @@ Dashboard
 ------
 ![Image text](https://raw.githubusercontent.com/Byrontosh/Plantilla-App-Demo/main/src/assets/fondos/captura-7.png)
 
+https://byronloarte.notion.site/S-labo-a25f2d27931e4eee8ade496643fc20cf
+
 Ahora se procede a crear una serie de archivos y directorios para el web server.
   mkdir src
   cd src
